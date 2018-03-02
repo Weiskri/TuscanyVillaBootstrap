@@ -1,0 +1,142 @@
+﻿.bg-dark {
+    background-color: #474E5D!important;
+}
+.nav-link {
+    text-transform: uppercase;
+    color: white!important;
+    letter-spacing: 2px;
+    margin-right: 10px;
+}
+
+.col-9.maincol {
+    background: url('Images/tuscany-villas-sant-anna.jpg')no-repeat center center;
+    height: 300px;
+}
+.col-3.maincol {
+    background: url('Images/Versilia.jpg')no-repeat center center;
+
+}
+div.col.navcol {
+    padding: 0px;
+}
+
+#jumbomain{
+    text-align: center;
+    opacity: .8;
+    color: white;
+    background:none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 2px;
+}
+
+.row.subheaderbar {
+    background-color: #474E5D;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Mukta Malar','Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2 {
+    font-family: 'Mukta Malar','Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-size: 22px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.row.locationsrowodd {
+    font-family: 'Mukta Malar', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #474E5D;
+    font-size: 12px;
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-top: 30px;
+    height: 300px;
+}
+.col-7.locationscolodd {
+    padding-top: 30px;
+    padding-right: 40px;
+}
+.col-5.locationscolodd {
+    background: url('Images/rsz_italy-mountain-villa.jpg')no-repeat center center;
+    height: 270px;
+    background-size: cover;
+}
+
+h3 {
+    font-size: 20px;
+}
+.btn.btn-secondary {
+    background-color: #474E5D!important;
+    color: white!important;
+    font-size: 10px;
+}
+.btn.btn-secondary:hover {
+    background-color: dimgray!important;
+}
+#thirdlocation {
+    background: url('Images/tuscany-grape-field-nature-51947.jpeg')no-repeat center center;
+    height: 270px;
+    background-size: cover;
+}
+.col-5.locationscoleven {
+    background: url('Images/modern-villa.jpeg')no-repeat center center;
+    height: 225px;
+    background-size: cover;
+}
+.col-7.locationscoleven {
+    padding-top: 30px;
+    padding-right: 40px;
+}
+.row.locationsroweven {
+    font-family: 'Mukta Malar', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #474E5D;
+    color: white;
+    font-size: 12px;
+    height: 300px;
+    padding-top: 40px;
+    padding-left: 40px;
+}
+
+#evenbutton {
+    background-color: white!important;
+    color: #474E5D!important;
+}
+#evenbutton:hover {
+    background-color: gainsboro!important;
+}
+
+.spacerrow1 {
+    height: 50px;
+}
+
+.square {
+    float: left;
+    position: relative;
+    width: 30%;
+    padding-bottom: 30%;
+    background-size: cover;
+}
+
+.checkerrow {
+    justify-content: center;
+}
+
+#pic1 {
+    background: url('images/3b-348x348.jpg') no-repeat center center;
+}
+
+#pic2 {
+    background: url('images/42-348x348.jpg') no-repeat center center;
+}
+
+#pic3 {
+    background: url('images/314-348x348.jpg') no-repeat center center;
+}
+
+#pic4 {
+    background: url('images/Villa-Rucellai-Toscani-2812-2-348x348.jpg') no-repeat center center;
+}
+
+#pic5 {
+    background: url('images/Villa-Vanna-231-348x348.jpg') no-repeat center center;
+}

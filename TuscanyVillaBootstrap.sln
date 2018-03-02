@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TuscanyVillaBootstrap", "TuscanyVillaBootstrap\", "{97A3AFB6-6BF6-4EE4-8727-7BE8D7CCF9E2}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_61421"
+		Debug.AspNetCompiler.PhysicalPath = "TuscanyVillaBootstrap\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61421\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_61421"
+		Release.AspNetCompiler.PhysicalPath = "TuscanyVillaBootstrap\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61421\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "61421"
+		SlnRelativePath = "TuscanyVillaBootstrap\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97A3AFB6-6BF6-4EE4-8727-7BE8D7CCF9E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A3AFB6-6BF6-4EE4-8727-7BE8D7CCF9E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD0C6886-52A5-4A52-B004-8DE7A2595F14}
+	EndGlobalSection
+EndGlobal
